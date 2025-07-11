@@ -84,7 +84,7 @@ docker run -p 8000:8000 fast-ocr
 ### Using pre-built image from GitHub Container Registry
 
 ```bash
-docker run -p 8000:8000 ghcr.io/YOUR_USERNAME/fast-ocr:latest
+docker run -p 8000:8000 ghcr.io/vladimish/fast-ocr:latest
 ```
 
 ## Note
